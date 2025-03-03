@@ -1,0 +1,12 @@
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\obj\Debug\net8.0\ödev1acunmedya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\obj\Debug\net8.0\ödev1acunmedya.AssemblyInfoInputs.cache
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\obj\Debug\net8.0\ödev1acunmedya.AssemblyInfo.cs
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\obj\Debug\net8.0\ödev1acunmedya.csproj.CoreCompileInputs.cache
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\obj\Debug\net8.0\ödev1acunmedya.sourcelink.json
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\bin\Debug\net8.0\ödev1acunmedya.deps.json
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\bin\Debug\net8.0\ödev1acunmedya.dll
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\bin\Debug\net8.0\ödev1acunmedya.pdb
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\obj\Debug\net8.0\ödev1acunmedya.dll
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\obj\Debug\net8.0\refint\ödev1acunmedya.dll
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\obj\Debug\net8.0\ödev1acunmedya.pdb
+C:\Users\sahba\source\repos\ödev1acunmedya\ödev1acunmedya\obj\Debug\net8.0\ref\ödev1acunmedya.dll
